@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Jerry6464.png</Source>
+      <Name>Textures\jerry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\jerry.xnb</Output>
+      <Time>2017-09-07T13:19:30.0633392-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bolo.png</Source>
+      <Name>Textures\Bolo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Bolo.xnb</Output>
+      <Time>2017-09-07T13:20:57.6391563-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bomba.png</Source>
+      <Name>Textures\Bomba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Bomba.xnb</Output>
+      <Time>2017-09-07T13:20:57.6597195-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cereja.png</Source>
+      <Name>Textures\Cereja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Cereja.xnb</Output>
+      <Time>2017-09-07T13:20:57.6677155-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Morango.png</Source>
+      <Name>Textures\Morango</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Morango.xnb</Output>
+      <Time>2017-09-07T13:20:57.67472-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Queijo.png</Source>
+      <Name>Textures\Queijo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Queijo.xnb</Output>
+      <Time>2017-09-07T13:20:57.677237-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cupcake.png</Source>
+      <Name>Textures\Cupcake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Cupcake.xnb</Output>
+      <Time>2017-09-07T13:20:57.6717183-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bg.png</Source>
+      <Name>Textures\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\bg.xnb</Output>
+      <Time>2017-09-07T14:17:14.4784627-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audios\somhit.wav</Source>
+      <Name>Audios\somhit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\somhit.xnb</Output>
+      <Time>2017-09-07T18:53:22.1509194-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audios\somsteps.wav</Source>
+      <Name>Audios\somsteps</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\somsteps.xnb</Output>
+      <Time>2017-09-07T19:30:42.6596825-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audios\sombomba.wav</Source>
+      <Name>Audios\sombomba</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\sombomba.xnb</Output>
+      <Time>2017-09-07T18:52:17.2517972-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audios\somfrutas.wav</Source>
+      <Name>Audios\somfrutas</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\somfrutas.xnb</Output>
+      <Time>2017-09-07T14:41:32.5538861-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audios\somderruba.wav</Source>
+      <Name>Audios\somderruba</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\somderruba.xnb</Output>
+      <Time>2017-09-07T19:17:24.1576879-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fontes\fontePontos.spritefont</Source>
+      <Name>Fontes\fontePontos</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Fontes\fontePontos.xnb</Output>
+      <Time>2017-09-16T01:14:06.3460039-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audios\music.mp3</Source>
+      <Name>Audios\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\music.xnb</Output>
+      <Extra>C:\Users\letic\Documents\Visual Studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Audios\music.wma</Extra>
+      <Time>2017-09-07T19:58:18.7038468-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Vida.png</Source>
+      <Name>Textures\Vida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\Vida.xnb</Output>
+      <Time>2017-09-13T21:37:46.6544432-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2017-09-14T23:53:51.8902418-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\inicio.png</Source>
+      <Name>Textures\inicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Textures\inicio.xnb</Output>
+      <Time>2017-09-14T23:30:03.6593713-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fontes\fontePontuacao.spritefont</Source>
+      <Name>Fontes\fontePontuacao</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\Fontes\fontePontuacao.xnb</Output>
+      <Time>2017-09-15T00:31:03.9724944-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CE1DE90B-0331-4EAA-A3EC-39C7107F599A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryELContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\letic\documents\visual studio 2015\Projects\JerryEL\JerryEL\JerryEL\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-08-22T20:24:23.0693736-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
